@@ -21,7 +21,7 @@ export default function Navbar() {
                </div>
   
                <div className=''>
-                   <button className='left-2nd'><h3 className='text'>Join Persole</h3><img src="/Images/vector.svg" alt="" /></button>
+                   <button className='left-2nd'><h3 className='text'>Join Persole</h3><img src="/Images/Vector.svg" alt="" /></button>
                    
                </div>
   
