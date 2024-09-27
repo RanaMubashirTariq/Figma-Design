@@ -1,0 +1,87 @@
+/* .main{
+    width: 100%;
+    height:38.5px;
+    
+} */
+.nav-container{
+    width: 100%;
+    height: 38.5px;
+    padding-top: 22.5px;
+    /* padding-left: 112.5px; */
+    padding-bottom: 22.5px;
+    display: flex;
+    justify-content: space-around;
+   
+}
+.logo-part{
+    width: 171px;
+    height: 30px;
+    
+}
+.left-part{
+    width:436.5px;
+    height: 38.5px;
+    gap: 7.5px;
+   display: flex;
+
+}
+.left-1st ul li{
+    display: inline-block;
+  
+   
+}
+.ul a{
+    width: 32px;
+    height: 16px;
+    font-family: Poppins;
+    font-size: 10.5px;
+    font-weight: 500;
+    line-height: 15.75px;
+    text-align: center;
+     margin-right: 30px;
+     color: grey;
+     text-decoration: none;
+}
+.ul a:active{
+    color: white;
+    text-decoration: solid;
+}
+
+.left-1st{
+    width:314px;
+    height: 38.5px;
+  box-sizing: border-box;
+  padding: 8px 30px 11px 35px;
+  align-items: center;
+    
+    border-radius: 78.75px ;
+    border: 0.38px ;
+    background: rgb(22, 21, 21);
+
+}
+.left-2nd{
+    width: 115px;
+    height: 38.5px;
+    padding: 11.25px 18.75px 11.25px 18.75px;
+    gap: 6px;
+    border-radius: 78.75px ;
+    border: 0.38px ;
+    background: white;
+    display:flex;
+   
+}
+.left-2nd img{
+    width: 7.5px;
+    height: 7.5px;
+    margin: 5px 0px 0px 0px;
+}
+.text{
+    width: 64px;
+    height: 16px;
+    font-family: Poppins;
+    font-size: 10.5px;
+    font-weight: 500;
+    line-height: 15.75px;
+    text-align: left;
+
+}
