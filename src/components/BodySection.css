@@ -1,0 +1,137 @@
+.main-body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 100%;
+    padding: 0px;
+}
+.trans-heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    position: absolute;
+    top: 215px;
+   
+}
+.frist-heading{
+    width: 470px;
+    height: 63px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.frist-heading h2{
+    font-family: Poppins;
+    font-size: 90px;
+    font-weight: 600;
+    line-height: 135px;
+    text-align: center;
+    color: white;
+    filter:opacity(20%) ;
+}
+.bottom-d{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+   height: 330px;
+   position: absolute;
+   top: 230px;
+   gap: 22.5px;
+    /* padding: 32px 485px 90px 485px; */
+    color: white;
+    
+}
+.bottom{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 666px;
+    height: 198px;
+}
+.bottom-heading{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 666px;
+    height: 148px;
+}
+.bottom-heading h2{
+    font-family: Poppins;
+    font-size: 67.5px;
+    font-weight: 600;
+    line-height: 74.25px;
+    text-align: center;
+}
+.bottom-para{
+    display: flex;
+    justify-content: center;
+    width: 456px;
+    height: 50px;
+}
+.bottom-para p{
+    font-family: Poppins;
+    font-size: 16.5px;
+    font-weight: 400;
+    line-height: 24.75px;
+    text-align: center;
+
+}
+.last-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 80px;
+}
+.outer-btn-d{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 178.5px;
+    height: 64.5px;
+    padding: 3px;
+    gap: 7.5px;
+    border-radius: 78.75px;
+    border: 0.52px solid rgba(255, 255, 255, 0.2)
+}
+
+.inner-btn-d{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 172.5pxpx;
+    height: 58.5px;
+    padding: 3px;
+    gap: 7.5px;
+    border-radius: 78.75px;
+    border: 0.52px solid rgba(255, 255, 255, 0.2)
+
+}
+.inner-btn-d button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 166.5px;
+    height: 52.5px;
+    padding: 17.25px 36px 17.25px 36px;
+    gap: 9px;
+    border-radius: 78.75px;
+    background: rgba(255, 255, 255, 1);
+    border: 0.75px solid rgba(0, 0, 0, 1)
+
+}
+.inner-btn-d button{
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: -0.01em;
+    text-align: left;
+
+}

@@ -3,9 +3,6 @@ import './NavbarSection.css'
 export default function NavbarSection() {
   return (
     <div className='navbar-container'>
-       
-
-
         <div className='left-d'>
         <img src='/Images/Logo.svg'/>
         </div>
@@ -25,7 +22,6 @@ export default function NavbarSection() {
           </div>
 
         </div>
-
     </div>
   )
 }
