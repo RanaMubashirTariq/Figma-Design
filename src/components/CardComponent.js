@@ -22,7 +22,7 @@ export default function CardComponent() {
              </div>
 
              {/* This div for Mooncoin Mini Game */}
-             <div className='card-d2'>
+             <div className='card-d'>
                 <div className='moon-pic'><img src='/Images/CapMoon.svg'/></div>
                 <div className='heading-tag-d'>
                     <div className='card-heading'><h2>Mooncoin Mini Game</h2></div>
