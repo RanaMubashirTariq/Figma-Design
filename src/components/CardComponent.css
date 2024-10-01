@@ -67,21 +67,10 @@
     flex-wrap: wrap;
     align-items: flex-start;
     align-content: flex-start;
-    /* justify-content: space-evenl; */
-    /* align-items: center; */
     width: 1140px;
     height: 729.5px;
     gap: 24.38px;
 }
-/* .inner-card-container{
-     display: flex;
-     justify-content: space-between;
-     align-items: center;
-     gap: 24.38px;
-     opacity: 0px;
-     
-} */
-
 .card-d{
     display: flex;
     flex-direction: column;
