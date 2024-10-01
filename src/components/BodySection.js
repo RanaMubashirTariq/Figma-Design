@@ -12,7 +12,7 @@ export default function BodySection() {
 
   <div className='middle-heading-d'>
        <div className='middle-inner-d'>
-        <div className='middle-inner-heading'><h2>The ultimate gaming ecosystem</h2></div>
+        <div className='middle-inner-heading'><h2>The ultimate <br/>gaming ecosystem</h2></div>
         <div className='middle-inner-para'><p>Step in to bluemoon’s revolutionary gaming ecosystem
         where you can play, earn & explore digital assets</p></div>
        </div>

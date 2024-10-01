@@ -1,0 +1,62 @@
+.earth-d{
+    width: 1059px;
+    height: 1110px;
+    gap: 0px;
+    opacity: 0px; 
+    background: transparent;
+}
+.earth-left-d{
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    width: 668.25px;
+    height: 911.25px;
+    top: 2019px;
+    left: 621.75px;
+    gap: 0px;
+    opacity: 0px;
+}
+.earth-heading{
+    width: 533px;
+    height:181.75px;
+    gap: 18.75px;
+    opacity: 0px;
+}
+.earth-heading-d{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 533px;
+    height: 140px;
+    gap: 0px;
+    opacity: 0px;
+}
+.earth-heading-d h2{
+    font-family: Poppins;
+    font-size: 58.5px;
+    font-weight: 600;
+    line-height: 70.2px;
+    text-align: left;
+    color: linear-gradient(269.42deg, #FFFFFF 11.19%, #E4E7F5 50.65%, #D2D8EE 76.77%, #3D476D 112.51%);
+}
+.earth-para-d{
+    width: 261px;
+    height: 23px;
+    gap: 0px;
+    opacity: 0px;
+}
+.earth-para-d p{
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 22.5px;
+    text-align: center;   
+}
+.earth-para-d p span{
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 22.5px;
+    text-align: center;
+
+}
