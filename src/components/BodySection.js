@@ -7,12 +7,9 @@ export default function BodySection() {
 <div className='main-body'>
 
   <div className='trans-heading'>
-    <div className='frist-heading'>
-       <h2>bluemoon</h2>
-    </div>
+          <img src='/Images/Trans.svg'/>
   </div>
 
-    <div className='bottom-d'>
 
       <div className='bottom'>
       <div className='bottom-heading'>
@@ -22,7 +19,7 @@ export default function BodySection() {
           <p>Step in to bluemoon’s revolutionary gaming ecosystem <br/>
           where you can play, earn & explore digital assets</p>
           </div>
-          </div>
+          
            <div className='last-btn'>
           <div className='outer-btn-d'>
             <div className='inner-btn-d'>
@@ -30,8 +27,7 @@ export default function BodySection() {
             </div>
           </div>
           </div>
+          </div>
     </div>
-
- </div>
   )
 }

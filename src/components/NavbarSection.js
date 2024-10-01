@@ -1,7 +1,9 @@
 import React from 'react'
 import './NavbarSection.css'
+import BodySection from './BodySection'
 export default function NavbarSection() {
   return (
+    <div div className='first-component'>
     <div className='navbar-container'>
         <div className='left-d'>
         <img src='/Images/Logo.svg'/>
@@ -22,6 +24,8 @@ export default function NavbarSection() {
           </div>
 
         </div>
+    </div>
+    <BodySection/>
     </div>
   )
 }

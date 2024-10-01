@@ -1,13 +1,12 @@
 import './App.css';
-import BodySection from './components/BodySection';
+import CardComponent from './components/CardComponent';
 import NavbarSection from './components/NavbarSection';
-
 function App() {
   return (
     <div className="">
         
-        <NavbarSection/>
-        <BodySection/>
+        {/* <NavbarSection/> */}
+        <CardComponent/>
     </div>
   );
 }

@@ -9,38 +9,24 @@
 .trans-heading{
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
     width: 100%;
-    position: absolute;
-    top: 215px;
+     
+    /* position: absolute;
+    top: 215px; */
    
 }
-.frist-heading{
-    width: 470px;
-    height: 63px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.frist-heading h2{
-    font-family: Poppins;
-    font-size: 90px;
-    font-weight: 600;
-    line-height: 135px;
-    text-align: center;
-    color: white;
-    filter:opacity(20%) ;
-}
+
 .bottom-d{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 100%;
-   height: 330px;
-   position: absolute;
-   top: 230px;
-   gap: 22.5px;
+     width: 666px;
+    height: 330px;
+   /* position: absolute;
+   top: 230px; */
+   gap: 45.5px;
     /* padding: 32px 485px 90px 485px; */
     color: white;
     
@@ -51,14 +37,15 @@
     justify-content: center;
     align-items: center;
     width: 666px;
-    height: 198px;
+    height: 330px;
 }
 .bottom-heading{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 666px;
+    /* width: 666px; */
+    width: 100%;
     height: 148px;
 }
 .bottom-heading h2{
@@ -71,7 +58,9 @@
 .bottom-para{
     display: flex;
     justify-content: center;
-    width: 456px;
+    align-items: center;
+    /* width: 456px; */
+    width: 100%;
     height: 50px;
 }
 .bottom-para p{
@@ -115,7 +104,7 @@
 }
 .inner-btn-d button{
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     width: 166.5px;
     height: 52.5px;
@@ -132,6 +121,6 @@
     font-weight: 500;
     line-height: 18px;
     letter-spacing: -0.01em;
-    text-align: left;
+    text-align: center;
 
 }
