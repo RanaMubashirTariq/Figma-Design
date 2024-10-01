@@ -1,11 +1,12 @@
 .first-component{
-        width: 100%;
-        height: 100vh;
+        max-width: 100%;
+        height: 600px;
         background-image: url(/public/Images/Back.svg);
         background-position:center;
         background-repeat: no-repeat;
         background-size: cover;
-       filter: saturate(200%);
+       /* filter: saturate(200%); */
+       backdrop-filter: blur(22.5px);
 }
 .navbar-container{
     display: flex;
