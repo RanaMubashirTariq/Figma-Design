@@ -69,32 +69,6 @@ export default function CardComponent() {
         </div>
         
        </div>
-
-        <div className='part-two'>
-
-       <div  className='earth-d'><img src='/Images/Earth.svg'/>
          </div>
-         <div className='earth-left-d'>
-            <div className='earth-heading'>
-                <div className='earth-heading-d'><h2>Explore Bluemoon
-                mobile app</h2></div>
-                <div className='earth-para-d'><p>Engage, Participate and earn <span>xBlue</span></p></div>
-            </div>
-
-            <div>
-                <div className='card-d2'>
-                    <div className='inner-card-d'>
-                        <div className='pic-d'><img src='/Images/Earn.svg'/></div>
-                        <div className='font-d'>
-                            <div className='heading-card'></div>
-                            <div className='para-card'></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-         </div>
-        </div>
-     
-    </div>
   )
 }
