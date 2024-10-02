@@ -6,7 +6,7 @@
         background-repeat: no-repeat;
         background-size: cover;
        /* filter: saturate(200%); */
-       backdrop-filter: blur(22.5px);
+       /* backdrop-filter: blur(22.5px); */
 }
 .navbar-container{
     display: flex;
