@@ -127,6 +127,11 @@ export default function CardComponent() {
 
                {/* Card End */}
 
+
+              <div className='four-btn-d'>
+                <button className='four-d-heading'><h2>Learn Much More</h2></button>
+              </div>
+              
           </div>
   </div>
             

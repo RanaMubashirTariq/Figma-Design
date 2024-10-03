@@ -1,0 +1,264 @@
+.moon-coin-d{
+    max-width: 100%;
+    height: 2160px;
+    background-image: url(/public/Images/MoonBackgroung.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btns-d{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    max-width:100%;
+    height: 111.75px;
+    /* margin-top: 150px; */
+    padding: 30px 262.5px;
+    gap: 179px;
+    border: 0.75px solid rgba(255, 255, 255, 0.08);
+    opacity: 0px;
+    background: rgba(255, 255, 255, 0.03);
+    
+}
+.moon-coin-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 208.5ppx;
+    height: 30ppx;
+    gap: 7.5px;
+    opacity: 0px;
+}
+.moon-btn-heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 119px;
+    height: 26px;
+    gap: 0px;
+    opacity: 0px;
+}
+.moon-btn-heading h2{
+    font-family: Poppins;
+    font-size: 37.5px;
+    font-weight: 600;
+    line-height: 56.25px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    /* color: linear-gradient(225.84deg, #1ED6FF 1.43%, #0F80FE 93.33%);   */
+     color: rgb(33, 33, 130);
+}
+.moon-btn-para{
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    width: 82px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;    
+}
+.moon-btn-para p{
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    text-align: left;
+    color: rgba(208, 209, 226, 1);   
+}
+.moon-pic-heading-card-d{
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+    max-width: 1222.5px;
+    height: 734.25px;
+     padding: 135px 0px 150px 0px;
+     /* position: absolute; */
+    gap: 0px;
+    opacity: 0px;  
+}
+.moon-pic-right-part{
+    position: absolute;
+    width: 553.5px;
+    height: 569.47px;
+    padding-top: 82.5px;
+    padding-left: 82.5px;
+    gap: 0px;
+    opacity: 0px;
+    backdrop-filter: blur(18px)
+    
+}
+.left-moon-part-d{ 
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    width: 583px;
+    height: 184px;
+    padding-top: 64.5px;
+    padding-left: 506.25px;
+    gap: 0px;
+    opacity: 0px;  
+}
+.left-heading-moon-d{
+    width: 583px;
+    height: 135px;
+    top: 64.5px;
+    left: 506.25px;
+    gap: 0px;
+    opacity: 0px;
+}
+.left-heading-moon-d h2{
+    font-family: Poppins;
+    font-size: 112.5px;
+    font-weight: 600;
+    line-height: 135px;
+    text-align: left;
+    /* color: linear-gradient(269.42deg, #FFFFFF 11.19%, #E4E7F5 50.65%, #D2D8EE 76.77%, #3D476D 112.51%); */
+    color: white;
+}
+.left-para-moon-d{
+    width: 396px;
+    height: 34px;
+   padding: 15px 3.52px 0px 183px;
+    gap: 0px;
+    opacity: 0px;
+}
+.left-para-moon-d{
+    font-family: Poppins;
+    font-size: 22.5px;
+    font-weight: 400;
+    line-height: 33.75px;
+    text-align: left;
+    color: rgba(153, 153, 153, 1);   
+}
+.cards-without-pic-d{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 532.5px;
+    height:239px;
+     padding: 74px 0px 172px 183px;
+    gap: 75px;
+    opacity: 0px;
+}
+.inner-card-without-pic{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 225px;
+    height: 88.5px;
+    gap: 15px;
+    opacity: 0px; 
+}
+.inner-card-heading-out-d{
+    width: 210px;
+    height: 19.5px;
+    gap: 0px;
+    opacity: 0px;    
+}
+.inner-card-heading-out-d h2{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);  
+}
+.inner-card-para-out-d{
+    width: 225px;
+    height: 54px;
+    gap: 0px;
+    opacity: 0px;
+}
+.inner-card-para-out-d p{
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 18px;
+    text-align: left;
+    color: rgba(255, 255, 255, 0.82);
+    
+}
+.video-pic-d{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    height: 861px;
+     padding: 0px 150px 150px 150px;
+    gap: 75px;
+    opacity: 0px;
+}
+.video-d-heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1140px;
+    height: 135px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+.video-d-heading h2{
+    font-family: Poppins;
+    font-size: 112.5px;
+    font-weight: 600;
+    line-height: 135px;
+    text-align: center;
+    /* color: linear-gradient(269.42deg, #FFFFFF 11.19%, #E4E7F5 50.65%, #D2D8EE 76.77%, #3D476D 112.51%); */
+    color: white;
+}
+.picof-video-d{
+    display: flex;
+    justify-content: center;
+    width: 1,140px;
+    height:651px;
+    padding: 12px 13.5px;
+    gap: 7.5px;
+    border-radius: 67.5px;
+    border: 0.75px solid rgba(255, 255, 255, 0.2);
+    opacity: 0px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.picof-video-inner-d{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    max-width: 1,113px;
+    height: 627px;
+    padding: 13.5px;
+    gap: 7.5px;
+    border-radius: 52.5px;
+    border: 0.75px solid rgba(255, 255, 255, 0.3);
+    opacity: 0px;
+}
+.picof-video-last-d img{
+    width: 1086px;
+    height: 600px;
+    gap: 0px;
+    border-radius: 37.5px;
+    opacity: 0px;
+    background: rgba(0, 0, 0, 0.5);
+    border: 0.75px solid rgba(255, 255, 255, 0.4);
+}
+.youtube-btn {
+    position: absolute;
+    padding-top: 250px; 
+    width: 85.5px;
+    height: 60px;
+    gap: 0px;
+    opacity: 0px;
+}
+.youtube-scroll-bar-d{
+    position: absolute;
+    padding-top: 550px;
+    width: 826.97px;
+    height: 27.79px;
+    gap: 0px;
+    opacity: 0px;
+
+}

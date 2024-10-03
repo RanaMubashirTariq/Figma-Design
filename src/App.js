@@ -1,5 +1,6 @@
 import './App.css';
 import CardComponent from './components/CardComponent';
+import MoonCoin from './components/MoonCoin';
 import NavbarSection from './components/NavbarSection';
 function App() {
   return (
@@ -7,6 +8,7 @@ function App() {
         
         <NavbarSection/>
         <CardComponent/>
+        <MoonCoin/>
     </div>
   );
 }

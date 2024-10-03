@@ -1,7 +1,6 @@
 .card-component{
     max-width: 100%;
     height: 2160px;
-
     background-image: url(/public/Images/CardsBackground.svg);
     background-position: center;
     background-repeat: no-repeat;
@@ -68,6 +67,7 @@
     flex-wrap: wrap;
     align-items: flex-start;
     align-content: flex-start;
+    padding-top: 60px;
     width: 1140px;
     height: 729.5px;
     gap: 24.38px;
@@ -295,4 +295,38 @@
   line-height: 18px;
   text-align: left;  
   color:  rgba(255, 255, 255, 1);;
+}
+.four-btn-d{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  width: 195px;
+  height: 52.5px;
+  margin-top: 846.75px;
+  margin-left: 110px;
+  gap: 0px;
+  border-radius: 75px;
+  opacity: 0px;
+  background: rgb(33, 33, 130);
+}
+.four-btn-d button{
+  border: none;
+  outline: none;
+  background: none;
+  width: 131px;
+  height: 17px;
+  top: 864.75px;
+  left: 179.25px;
+  gap: 0px;
+  opacity: 0px;
+}
+.four-d-heading h2{
+  font-family: Poppins;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 16.5px;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+  
 }
