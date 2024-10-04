@@ -70,6 +70,7 @@
 .moon-pic-heading-card-d{
     display: flex;
     justify-content: flex-start;
+    align-items: flex-start;
     width: 100%;
     max-width: 1222.5px;
     height: 734.25px;

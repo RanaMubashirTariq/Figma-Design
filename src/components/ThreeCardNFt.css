@@ -1,0 +1,394 @@
+.threeCard-nft{
+    background-image: url(/public/Images/CardsBackground.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    max-width: 1440px;
+    height: 1460px;
+    margin-top: 57px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+.nft-main-d{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 1,140px;
+    height: 503.25px;
+     /* padding: 150px 150px 150px 150px; */
+     padding-top: 92px;
+    gap: 24.75px;
+    opacity: 0px;
+    /* flex: none;
+    order: 0;
+    flex-grow: 0; */
+}
+.frist-nft-d{
+    width: 300px;
+    height: 495.75px;  
+}
+.second-nft-d{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    width: 285px;
+    max-height: 494.75px;
+    gap: 17.25px;
+}
+.second-nft-inner-d{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 285px;
+    height: 171.75px;
+    gap: 11.25px;
+    border-radius: 6px;
+    border: 0.75px solid rgba(255, 255, 255, 0.1);
+    color: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(15px);
+
+}
+.second-nft-heading-d{
+    width: 204.75px;
+    height: 25.5px;
+    padding-left: 30px;
+    gap: 0px;
+    opacity: 0px; 
+}
+.second-nft-heading-d h2{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 25.2px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
+.second-nft-para-d{
+    width: 225px;
+    height: 90px;
+    padding-left: 30px;
+    gap: 0px;
+    opacity: 0px;
+}
+.second-nft-para-d p{
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);   
+}
+.thrid-nft-d{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width:505.5px;
+    height:503.25px;
+    gap: 24px;
+    opacity: 0px;
+    border-radius: 6px;
+    background: rgba(255, 255, 255, 0.05);
+    border: 0.75px solid rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(15px);
+}
+.thrid-nft-pic-d{
+    width: 505.5px;
+    height:362.25px;
+    padding: 7.09px;
+    gap: 7.96px;
+    
+}
+.thrid-nft-detail-d{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 505.5px;
+    height: 97px;
+    padding: 0px 36px 26px 36px;
+    /* gap: 18px; */
+    opacity: 0px;
+}
+.thrid-nft-heading-d{
+    width: 433.5px;
+    height: 37px;
+    padding: 0px 0px 12px 0px;  
+}
+.thrid-nft-heading-d{
+    width: 433.5px;
+    height: 25px;
+}
+.thrid-nft-heading-d h2{
+    font-family: Poppins;
+    font-size: 21px;
+    font-weight: 500;
+    line-height: 25.2px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
+.thrid-nft-para-d{
+    /* display: flex;
+    justify-content: center;
+    padding-bottom: 26px; */
+    width: 433.5px;
+    height: 60px;
+    gap: 0px;   
+}
+.thrid-nft-para-d p{
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20.4px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    
+}
+.meterverse-main-d{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    overflow: hidden;
+    /* max-width: 1429.5px; */
+    height: 602.66px;
+    padding-top: 150px;
+    padding-left: 150px;
+    gap: 82.5px;
+    opacity: 0px;   
+}
+.right-part-meterverse{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center; */
+    width:483px;
+    height:519.94px;
+    /* padding-left: px; */
+    gap: 37.5px;
+    opacity: 0px;  
+}
+.meterverse-detail-d{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width:478.5px;
+    height:181px;
+    gap: 12px;
+    opacity: 0px;
+}
+.meterverse-heading-d{
+    width: 478.5px;
+    height: 129px;
+    gap: 0px;
+    opacity: 0px;    
+}
+.meterverse-heading-d h2{
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 43.2px;
+    text-align: left;
+    color: linear-gradient(269.42deg, #FFFFFF 11.19%, #E4E7F5 50.65%, #D2D8EE 76.77%, #3D476D 112.51%); 
+     color: white;
+}
+.meterverse-para-d{
+    width: 402.75px;
+    height: 40px;
+    gap: 0px;
+    opacity: 0px;    
+}
+.meterverse-para-d p{
+    font-family: Poppins;
+    font-size: 13.5px;
+    font-weight: 400;
+    line-height: 20.25px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1); 
+}
+.meterverse-second-part{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 483px;
+    height: 211px;
+    gap: 22.5px;
+    opacity: 0px;   
+}
+.meterverse-second-part-detail{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center; */
+    width:483px;
+    height:79px;
+    gap: 12px;
+    opacity: 0px; 
+}
+.meterverse-second-part-heading{
+    width: 483px;
+    height: 31px;
+    gap: 0px;
+    opacity: 0px;
+}
+.meterverse-second-part-detail h2{
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 31.2px;
+    text-align: left;
+    color: linear-gradient(269.42deg, #FFFFFF 11.19%, #E4E7F5 50.65%, #D2D8EE 76.77%, #3D476D 112.51%);
+    color: white;
+}
+.meterverse-second-part-para{
+    width: 408.75px;
+    height: 36px;
+    gap: 0px;
+    opacity: 0px;    
+}
+.meterverse-second-part-para p{
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: left;
+    color: var(--neutral-white, rgba(255, 255, 255, 1));
+}
+.meterverse-second-part-li{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width:483px;
+    height: 109.5px;
+    padding: 6px 0px 6px 0px;
+    gap: 15px;
+    opacity: 0px; 
+}
+.meterverse-second-part-li {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 483px;
+    height: 22.5px;
+    gap: 12px;
+    opacity: 0px;
+}
+.meterverse-second-part-li-pic{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    width:483px;
+    height: 22.5px;
+    gap: 12px;
+    opacity: 0px;
+}
+.meterverse-second-part-li-para{
+    width: 448.5px;
+    height: 18px;
+    gap: 0px;
+    opacity: 0px;
+}
+.meterverse-second-part-li-para p{
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: left;
+    color: var(--neutral-white, rgba(255, 255, 255, 1));
+    
+}
+.meterverse-btn-d{
+    display: flex;
+    justify-content:flex-start;
+    align-items: flex-start;
+    width: 392.25px;
+    height: 52.94px;
+    gap: 15px;
+    opacity: 0px; 
+}
+.meterverse-btn-right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 182.25px;
+    height: 52.94px;
+    gap: 0px;
+    border-radius: 75px;
+    opacity: 0px; 
+    background: rgba(17, 138, 254, 1);    
+}
+.meterverse-btn-right button{
+    border: none;
+    outline: none;
+    background: none;
+    width: 115px;
+    height: 17px;
+    top: 18px;
+    left: 34.5px;
+    gap: 0px;
+    opacity: 0px;
+}
+.meterverse-btn-right button h2{
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 16.5px;
+    text-align: center; 
+}
+.meterverse-btn-left{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 195px;
+    height: 52.5px;
+    gap: 0px;
+    border-radius: 75px ;
+    opacity: 0px;
+    color: rgba(17, 138, 254, 1);
+    border: 1.5px solid rgba(17, 138, 254, 1)
+}
+.meterverse-btn-left button{
+    border: none;
+    outline: none;
+    background: none;
+    width: 128px;
+    height: 17px;
+    top: 18.22px;
+    left: 231px;
+    gap: 0px;
+    opacity: 0px;
+}
+.meterverse-btn-left button h2{
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 16.5px;
+    text-align: center;
+    color: rgba(17, 138, 254, 1);
+}
+.left-part-meterverse{
+    width: 864px;
+    height: 602.66px;
+    gap: 0px;
+    opacity: 0px;
+}
+/* .earth-complete-d1{
+    display: flex;
+    justify-content: center;
+    max-width: 100%;
+    height: 1437.75px;
+}
+.earth-complete-d3 img{
+    max-width: 1008px;
+    height: 1110px;
+    gap: 0px;
+    opacity: 0px;
+    transform: rotate(270.05deg);
+}  */
